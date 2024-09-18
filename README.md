@@ -22,6 +22,7 @@ The tasks to be done in the project:-
 1. Data Collection:- Gather historical data on AtliQ Grands' properties, including revenue, occupancy, customer ratings, and booking platforms.
 2. Data Cleaning and Preparation:- Preprocess the data for analysis by handling missing values, inconsistencies, and formatting issues.
 3. Data Analysis:-
+
 A. Analyze revenue, occupancy percentage, and average customer ratings.
 
 B. Explore trends by city, property, week, and day type.
